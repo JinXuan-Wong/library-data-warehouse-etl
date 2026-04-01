@@ -1,0 +1,142 @@
+
+Session altered.
+
+=== Borrow vs Sales Analysis Parameters ===
+Enter START year (YYYY) [2022]: 2019
+Enter END year (YYYY)   [2025]: 2023
+
+RUN_DT
+--------------------
+18-SEP-2025
+
+
+
+
+
+
+                        Sales and Borrowing Preference Analysis by Year and Genre       2019 --       2023
+                                                                                                                         Page    1
+Date: 18-SEP-2025
+
+                                         Borrow    Sales                            Sales Member`s   Gender
+Year              Genre                   Count    Count Borrow % Sales %         Revenue   Male % Female % Preference
+----------------- -------------------- -------- -------- -------- ------- --------------- -------- -------- ------------------
+2019              ADVENTURE                 775      647    54.50   45.50      123,707.19    36.90    63.10 Borrowing Higher
+                  AUTOBIOGRAPHY             751      659    53.26   46.74      125,640.77    33.93    66.07 Borrowing Higher
+                  FANTASY                   677      643    51.29   48.71      119,840.91    33.65    66.35 Balanced
+                  FICTION                   692      694    49.93   50.07      139,688.13    34.98    65.02 Balanced
+                  HISTORY                 1,312    1,401    48.36   51.64      274,431.11    34.86    65.14 Balanced
+                  JUVENILE FICTION          707      647    52.22   47.78      121,884.38    35.29    64.71 Balanced
+                  MYSTERY                   682      656    50.97   49.03      121,417.81    34.80    65.20 Balanced
+                  NON-FICTION             2,054    2,053    50.01   49.99      387,777.52    34.27    65.73 Balanced
+                  PHILOSOPHY                724      702    50.77   49.23      131,571.25    34.60    65.40 Balanced
+                  ROMANCE                   739      681    52.04   47.96      130,548.18    35.16    64.84 Balanced
+                  THRILLER                  669      664    50.19   49.81      133,624.14    33.97    66.03 Balanced
+                  ===================
+                  Total                   9,782    9,447    50.87   49.13    1,810,131.39    34.73    65.27 Balanced
+
+2020              ADVENTURE                 727      646    52.95   47.05      121,776.11    35.72    64.28 Borrowing Higher
+                  AUTOBIOGRAPHY             691      699    49.71   50.29      130,194.02    34.21    65.79 Balanced
+                  FANTASY                   728      647    52.95   47.05      118,912.16    32.18    67.82 Borrowing Higher
+                  FICTION                   725      664    52.20   47.80      121,916.79    37.16    62.84 Balanced
+                  HISTORY                 1,370    1,345    50.46   49.54      248,901.28    37.05    62.95 Balanced
+                  JUVENILE FICTION          723      699    50.84   49.16      129,088.91    34.51    65.49 Balanced
+                  MYSTERY                   681      715    48.78   51.22      135,912.56    36.00    64.00 Balanced
+                  NON-FICTION             2,111    2,036    50.90   49.10      380,714.71    34.13    65.87 Balanced
+                  PHILOSOPHY                666      708    48.47   51.53      144,454.10    35.12    64.88 Balanced
+                  ROMANCE                   708      619    53.35   46.65      114,480.56    34.62    65.38 Borrowing Higher
+                  THRILLER                  676      689    49.52   50.48      131,901.02    36.76    63.24 Balanced
+                  ===================
+__________________________________________________________________________________________________________________________________
+
+                        Sales and Borrowing Preference Analysis by Year and Genre       2019 --       2023
+                                                                                                                         Page    2
+Date: 18-SEP-2025
+
+                                         Borrow    Sales                            Sales Member`s   Gender
+Year              Genre                   Count    Count Borrow % Sales %         Revenue   Male % Female % Preference
+----------------- -------------------- -------- -------- -------- ------- --------------- -------- -------- ------------------
+2020              Total                   9,806    9,467    50.88   49.12    1,778,252.22    35.21    64.79 Balanced
+
+2021              ADVENTURE                 723      712    50.38   49.62      143,300.27    34.14    65.86 Balanced
+                  AUTOBIOGRAPHY             751      702    51.69   48.31      128,620.10    32.97    67.03 Balanced
+                  FANTASY                   744      740    50.13   49.87      136,872.75    34.70    65.30 Balanced
+                  FICTION                   702      703    49.96   50.04      137,031.04    34.61    65.39 Balanced
+                  HISTORY                 1,343    1,351    49.85   50.15      257,728.36    36.93    63.07 Balanced
+                  JUVENILE FICTION          679      720    48.53   51.47      133,413.70    33.79    66.21 Balanced
+                  MYSTERY                   731      654    52.78   47.22      120,670.67    36.58    63.42 Borrowing Higher
+                  NON-FICTION             2,021    1,995    50.32   49.68      379,286.70    35.33    64.67 Balanced
+                  PHILOSOPHY                702      659    51.58   48.42      129,410.31    36.01    63.99 Balanced
+                  ROMANCE                   719      674    51.62   48.38      125,255.41    33.66    66.34 Balanced
+                  THRILLER                  687      693    49.78   50.22      131,492.03    36.26    63.74 Balanced
+                  ===================
+                  Total                   9,802    9,603    50.51   49.49    1,823,081.34    35.13    64.87 Balanced
+
+2022              ADVENTURE                 712      707    50.18   49.82      126,844.20    36.73    63.27 Balanced
+                  AUTOBIOGRAPHY             732      674    52.06   47.94      124,414.37    35.59    64.41 Balanced
+                  FANTASY                   678      665    50.48   49.52      121,189.45    34.29    65.71 Balanced
+                  FICTION                   691      682    50.33   49.67      128,869.95    37.33    62.67 Balanced
+                  HISTORY                 1,392    1,319    51.35   48.65      241,310.72    34.19    65.81 Balanced
+                  JUVENILE FICTION          697      697    50.00   50.00      134,040.40    33.36    66.64 Balanced
+                  MYSTERY                   689      717    49.00   51.00      126,712.55    33.78    66.22 Balanced
+                  NON-FICTION             2,002    2,105    48.75   51.25      375,992.54    36.57    63.43 Balanced
+                  PHILOSOPHY                712      704    50.28   49.72      132,201.20    34.35    65.65 Balanced
+                  ROMANCE                   717      732    49.48   50.52      138,182.52    35.10    64.90 Balanced
+__________________________________________________________________________________________________________________________________
+
+                        Sales and Borrowing Preference Analysis by Year and Genre       2019 --       2023
+                                                                                                                         Page    3
+Date: 18-SEP-2025
+
+                                         Borrow    Sales                            Sales Member`s   Gender
+Year              Genre                   Count    Count Borrow % Sales %         Revenue   Male % Female % Preference
+----------------- -------------------- -------- -------- -------- ------- --------------- -------- -------- ------------------
+2022              THRILLER                  684      687    49.89   50.11      122,327.73    34.73    65.27 Balanced
+                  ===================
+                  Total                   9,706    9,689    50.04   49.96    1,772,085.63    35.19    64.81 Balanced
+
+2023              ADVENTURE                 696      648    51.79   48.21      123,613.89    37.28    62.72 Balanced
+                  AUTOBIOGRAPHY             733      631    53.74   46.26      121,377.44    34.94    65.06 Borrowing Higher
+                  FANTASY                   664      647    50.65   49.35      114,830.61    35.83    64.17 Balanced
+                  FICTION                   743      681    52.18   47.82      130,228.51    34.54    65.46 Balanced
+                  HISTORY                 1,428    1,369    51.05   48.95      257,603.42    35.55    64.45 Balanced
+                  JUVENILE FICTION          708      633    52.80   47.20      119,469.73    36.06    63.94 Borrowing Higher
+                  MYSTERY                   686      627    52.25   47.75      117,273.54    34.43    65.57 Balanced
+                  NON-FICTION             2,057    1,934    51.54   48.46      360,027.28    34.90    65.10 Balanced
+                  PHILOSOPHY                695      667    51.03   48.97      122,727.86    36.10    63.90 Balanced
+                  ROMANCE                   714      671    51.55   48.45      120,067.63    37.10    62.90 Balanced
+                  THRILLER                  646      700    47.99   52.01      137,960.67    38.42    61.58 Balanced
+                  ===================
+                  Total                   9,770    9,208    51.48   48.52    1,725,180.58    35.78    64.22 Balanced
+
+*****************                      -------- --------                  ---------------
+Grand Total:                             97,732   94,828                    17,817,462.32
+
+
+
+
+
+
+__________________________________________________________________________________________________________________________________
+
+65 rows selected.
+
+
+Legend:
+• "Year" prints once; genres list under it. A "Total" row appears at the end of each year.
+• Borrow Count = number of borrowing transactions; Sales Count = number of sales transactions.
+• Sales Revenue = total sales amount (from line_total).
+• Borrow % = Borrow Count / (Borrow Count + Sales Count) × 100.
+• Sales  % = Sales Count  / (Borrow Count + Sales Count) × 100.
+• Gender % = share of distinct members (M/F) who borrowed or bought for that line.
+
+• Preference (10% rule):
+– Borrowing Higher: Borrow Count > 110% of Sales Count
+– Sales Higher:     Sales Count  > 110% of Borrow Count
+– Balanced:         Borrow/Sales between 0.91 and 1.10 (inclusive)
+
+• Preference Near-50% view (derived from 10% count gap):
+– Borrowing Higher: Borrow % ≥ 52.38%
+– Sales Higher:     Borrow % ≤ 47.62%
+– Balanced:         Borrow % between 47.62% and 52.38% (inclusive)
+

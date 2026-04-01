@@ -1,0 +1,169 @@
+
+Session altered.
+
+=== Borrowing Trend Parameters ===
+Enter START year (YYYY) [2023]: 2021
+Enter END year (YYYY)   [2025]: 2023
+
+RUN_DT
+--------------------
+18-SEP-2025
+
+
+
+
+
+
+                              Quarterly and Monthly Borrowing Trend Analysis       2021 --       2023
+                                                                                                                         Page    1
+Date: 18-SEP-2025
+
+                        Borrows         Last   Change %         3-Month     Seasonal   Net Copies Top                 Holiday
+ Year Period            (count)       Period    vs Last      Moving Avg      Index %    Available Genre                Month
+----- ------------ ------------ ------------ ---------- --------------- ------------ ------------ ------------------ ----------
+ 2021 Q1    Jan             788                                  788.00     -1.92%         33,777 NON-FICTION        Yes
+            Feb             749          788      -4.95          768.50     -8.56%         33,724 NON-FICTION        Yes
+            Mar             869          749      16.02          802.00     +6.48%         33,632 NON-FICTION        No
+      ------------
+      Q1 Total            2,406                                                            33,632
+
+      Q2    Apr             820          869      -5.64          812.67     -3.89%         33,566 NON-FICTION        No
+            May             794          820      -3.17          827.67     +2.71%         33,554 NON-FICTION        Yes
+            Jun             829          794       4.41          814.33     +1.40%         33,439 NON-FICTION        No
+      ------------
+      Q2 Total            2,443        2,406       1.54                                    33,439
+
+      Q3    Jul             830          829       0.12          817.67     -1.76%         33,426 NON-FICTION        No
+            Aug             822          830      -0.96          827.00     +3.90%         33,365 NON-FICTION        Yes
+            Sep             832          822       1.22          828.00     +0.66%         33,264 NON-FICTION        Yes
+      ------------
+      Q3 Total            2,484        2,443       1.68                                    33,264
+
+      Q4    Oct             784          832      -5.77          812.67     -1.35%         33,267 NON-FICTION        No
+            Nov             824          784       5.10          813.33     +1.28%         33,207 NON-FICTION        No
+            Dec             861          824       4.49          823.00     +1.03%         33,109 NON-FICTION        Yes
+      ------------
+      Q4 Total            2,469        2,484      -0.60                                    33,109
+
+      ************
+      Total               9,802
+__________________________________________________________________________________________________________________________________
+
+                              Quarterly and Monthly Borrowing Trend Analysis       2021 --       2023
+                                                                                                                         Page    2
+Date: 18-SEP-2025
+
+                        Borrows         Last   Change %         3-Month     Seasonal   Net Copies Top                 Holiday
+ Year Period            (count)       Period    vs Last      Moving Avg      Index %    Available Genre                Month
+----- ------------ ------------ ------------ ---------- --------------- ------------ ------------ ------------------ ----------
+
+ 2022 Q1    Jan             771                                  771.00     -1.92%         33,101 NON-FICTION        Yes
+            Feb             730          771      -5.32          750.50     -8.56%         33,034 NON-FICTION        Yes
+            Mar             869          730      19.04          790.00     +6.48%         32,957 NON-FICTION        No
+      ------------
+      Q1 Total            2,370                                                            32,957
+
+      Q2    Apr             777          869     -10.59          792.00     -3.89%         32,910 NON-FICTION        No
+            May             843          777       8.49          829.67     +2.71%         32,860 NON-FICTION        Yes
+            Jun             820          843      -2.73          813.33     +1.40%         32,777 NON-FICTION        No
+      ------------
+      Q2 Total            2,440        2,370       2.95                                    32,777
+
+      Q3    Jul             780          820      -4.88          814.33     -1.76%         32,761 NON-FICTION        No
+            Aug             853          780       9.36          817.67     +3.90%         32,673 NON-FICTION        Yes
+            Sep             830          853      -2.70          821.00     +0.66%         32,611 NON-FICTION        Yes
+      ------------
+      Q3 Total            2,463        2,440       0.94                                    32,611
+
+      Q4    Oct             790          830      -4.82          824.33     -1.35%         32,582 NON-FICTION        No
+            Nov             823          790       4.18          814.33     +1.28%         32,512 NON-FICTION        No
+            Dec             820          823      -0.36          811.00     +1.03%         32,475 NON-FICTION        Yes
+      ------------
+      Q4 Total            2,433        2,463      -1.22                                    32,475
+
+      ************
+__________________________________________________________________________________________________________________________________
+
+                              Quarterly and Monthly Borrowing Trend Analysis       2021 --       2023
+                                                                                                                         Page    3
+Date: 18-SEP-2025
+
+                        Borrows         Last   Change %         3-Month     Seasonal   Net Copies Top                 Holiday
+ Year Period            (count)       Period    vs Last      Moving Avg      Index %    Available Genre                Month
+----- ------------ ------------ ------------ ---------- --------------- ------------ ------------ ------------------ ----------
+      Total               9,706
+
+ 2023 Q1    Jan             834                                  834.00     -1.92%         32,410 NON-FICTION        Yes
+            Feb             752          834      -9.83          793.00     -8.56%         32,386 NON-FICTION        Yes
+            Mar             860          752      14.36          815.33     +6.48%         32,286 NON-FICTION        No
+      ------------
+      Q1 Total            2,446                                                            32,286
+
+      Q2    Apr             748          860     -13.02          786.67     -3.89%         32,312 NON-FICTION        No
+            May             869          748      16.18          825.67     +2.71%         32,198 NON-FICTION        Yes
+            Jun             825          869      -5.06          814.00     +1.40%         32,109 NON-FICTION        No
+      ------------
+      Q2 Total            2,442        2,446      -0.16                                    32,109
+
+      Q3    Jul             787          825      -4.61          827.00     -1.76%         32,101 NON-FICTION        No
+            Aug             860          787       9.28          824.00     +3.90%         32,006 NON-FICTION        Yes
+            Sep             794          860      -7.67          813.67     +0.66%         31,985 NON-FICTION        Yes
+      ------------
+      Q3 Total            2,441        2,442      -0.04                                    31,985
+
+      Q4    Oct             833          794       4.91          829.00     -1.35%         31,915 NON-FICTION        No
+            Nov             824          833      -1.08          817.00     +1.28%         31,850 NON-FICTION        No
+            Dec             784          824      -4.85          813.67     +1.03%         31,834 NON-FICTION        Yes
+      ------------
+      Q4 Total            2,441        2,441       0.00                                    31,834
+
+__________________________________________________________________________________________________________________________________
+
+                              Quarterly and Monthly Borrowing Trend Analysis       2021 --       2023
+                                                                                                                         Page    4
+Date: 18-SEP-2025
+
+                        Borrows         Last   Change %         3-Month     Seasonal   Net Copies Top                 Holiday
+ Year Period            (count)       Period    vs Last      Moving Avg      Index %    Available Genre                Month
+----- ------------ ------------ ------------ ---------- --------------- ------------ ------------ ------------------ ----------
+      ************
+      Total               9,770
+
+      Grand Total        29,278
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________________________________________________
+
+79 rows selected.
+
+
+Legend:
+- Borrows = loan count.
+- Last Period = previous month / previous quarter.
+- Change % = vs Last.
+- 3-Month Moving Avg = trailing 3 months.
+- Seasonal Index % = month strength vs overall.
+- Net Copies Available = in-service book copies minus active loans.
+- Top Genre = most-borrowed genre for the month.
+- Holiday Month = Yes if any public holiday occurs in that month.
+
