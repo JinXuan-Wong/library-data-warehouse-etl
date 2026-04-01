@@ -126,7 +126,6 @@ This report evaluates:
 ├── BorrowVsSales_Genre_Report2.txt
 ├── SupplierPerformance_Report3.txt
 ├── WongJinXuan/
-├── WongJinXuan_ReportVisualization.pbix 
 ├── SQL Report & PowerBI Charts Analysis.pdf
 ├── README.md
 └── .gitignore
